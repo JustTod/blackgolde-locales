@@ -2,7 +2,14 @@
   "name": "blackgolde-locales",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./index.js",
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "require": "./index.js"
+    },
+    "./locales/*": "./locales/*"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

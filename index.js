@@ -1,7 +1,8 @@
-const en = require('./locales/en.json')
-const th = require('./locales/th.json')
+// index.js (inside your i18n repo)
+import en from './locales/en.json';
+import th from './locales/th.json';
 
-module.exports = {
-    en,
-    th
+export default {
+  en,
+  th
 };
