@@ -1,5 +1,63 @@
 {
     "common": {
-        "title": "Black golde TH"
+        "company_name": "Black Gold Treasure Co., Ltd. (TH TBC)",
+        "brand_name": "THAI BLACKGOLDE",
+        "tagline_en": "Premium Trang Pepper, Thailand",
+        "footer_slogan": "From Trang’s Living Ecosystem to the World’s Finest Cuisine",
+        "philosophy": "For Those Who Value Origin and Integrity",
+        "philosophy_desc": "We believe that exceptional ingredients are not created by control alone, but by understanding and respecting nature.",
+        "partnership_invitation": "We look forward to collaborating with partners who value origin, quality, and long-term sustainability."
+    },
+    "products": {
+        "title": "A Distinctive Flavor Profile",
+        "black_pepper": {
+            "name_en": "Black Pepper",
+            "profile": "bold, warm, and structured"
+        },
+        "red_pepper": {
+            "name_en": "Red Pepper",
+            "profile": "fruity, floral, and multi-layered",
+            "badge": "Flagship"
+        },
+        "white_pepper": {
+            "name_en": "White Pepper",
+            "profile": "clean, elegant, and refined",
+            "badge": "Rare"
+        },
+        "summary": "Each expression reflects the same origin, with different layers revealed through processing."
+    },
+    "stories" : {
+      "terroir": {
+        "title": "Terroir Defined by Nature",
+        "desc": "The exceptional character of Trang pepper is directly shaped by its unique Geographical Indication, benefiting from a dual monsoon influence from both the Andaman Sea and the Gulf of Thailand. This climatic synergy is paired with cultivation on well-drained Soil Series 53, within a pristine natural environment rich in native biodiversity. The result is a peppercorn of deep aromatic complexity, offering a gentle heat and a long, refined finish that is entirely unique to its origin."
+      },
+      "balance": {
+        "title": "A Balanced Ecosystem, Not Just a Farm",
+        "desc": "Our farm is built on the core principle of working harmoniously with nature rather than against it, eliminating all chemical pesticides and herbicides from our fields. Instead, we utilize natural ground cover to retain essential soil moisture and support microbial life, while free-range chickens roam to assist with natural pest control and soil aeration. The land is nourished with organic and green fertilizers, supported by an advanced water management system with natural circulation and a primary solar energy grid. Located opposite the Southern Botanical Garden of Trang, our estate spans over 55 rai where biodiversity thrives, creating a sustainable, living balance between people, plants, animals, and the environment."
+      },
+      "crafted": {
+        "title": "Crafted Through Careful Processing",
+        "desc": "Every harvest is washed exclusively with potable-grade water before being slowly sun-dried under specialized parabolic dome structures. During this gentle drying phase, a natural fermentation occurs that enhances flavor complexity, drawing strong parallels to artisanal coffee processing. To lock in this distinctive profile, each batch is meticulously sorted by hand, nitrogen-flushed to retain freshness and aroma, and strictly controlled for moisture stability."
+      },
+      "different": {
+        "title": "What Makes Us Different",
+        "desc": "We stand out as one of the largest Trang pepper estates, operating a fully integrated supply chain from the farm directly to the finished product. Every batch is single-origin and fully traceable, offering multiple grading options for diverse applications while remaining completely free of pesticides and herbicides. Our rare, limited-production white pepper makes up less than 10% of our harvest, emphasizing our commitment to a sustainable farming approach and fair trade practices with our farming community."
+      },
+      "recognition": {
+        "title": "Recognition",
+        "desc": "Trang pepper from our estate has been recognized by leading chefs in Thailand and internationally, and has been presented at international food exhibitions such as FOODEX and THAIFEX, in collaboration with the Department of Intellectual Property, Ministry of Commerce (Thailand). These recognitions reflect the growing appreciation of Trang pepper in the global culinary scene."
+      },
+      "origin": {
+        "title": "For Those Who Value Origin and Integrity",
+        "desc": "We believe that exceptional ingredients are not created by control alone, but by understanding and respecting nature."
+      },
+      "cultivation": {
+        "title": "Precision in Cultivation",
+        "desc": "Harvesting is done entirely by hand, selecting only clusters with at least 10% ripeness. \n Due to the absence of chemical pest control, ripeness is carefully managed to maintain natural balance, ensuring both quality and ecosystem stability. The harvest season extends over approximately six months, allowing gradual and selective picking."
+      },
+      "heritage": {
+        "title": "A Rare Pepper with Over 200 Years of Heritage",
+        "desc": "Trang pepper is a native variety known as Palian, originating from the Banthat Mountain Range in southern Thailand. \n With a history of over 200 years, this local variety nearly disappeared during the late 19th century and survived only in small household cultivation. \n In recent years, this heritage variety has been carefully revived through close collaboration between local Trang pepper farmers, government agencies, and academic institutions. \n Today, it is recognized as a rare and distinctive ingredient with a unique identity shaped by its origin."
+      }
     }
 }
